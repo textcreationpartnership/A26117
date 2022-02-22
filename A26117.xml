@@ -1,0 +1,367 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Alamode musician being a new collection of songs composed by some of the most eminent masters &amp; ingrav'd from the originalls : with a through bass for the harpsichord or bass-violl : and for the easier</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26117</idno>
+            <idno type="STC">Wing A41</idno>
+            <idno type="EEBO-CITATION">12796572</idno>
+            <idno type="OCLC">ocm 12796572</idno>
+            <idno type="VID">93982</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26117)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93982)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 45:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Alamode musician being a new collection of songs composed by some of the most eminent masters &amp; ingrav'd from the originalls : with a through bass for the harpsichord or bass-violl : and for the easier</title>
+               </titleStmt>
+               <extent>1 score ([16] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Sould by Henry Playford at his shop ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>For voice or recorder, and continuo.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Songs, English --  England --  17th century.</term>
+               <term>Songs with continuo.</term>
+               <term>Recorder and continuo music --  Scores.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93982:1"/>
+            <pb facs="tcp:93982:1"/>
+            <head>
+               <hi>THE</hi> ALAMODE MUSICIAN</head>
+            <p>Being a new <hi>Collection</hi> of <hi>Songs</hi> Compos'd by Some of the most <hi>Eminent Masters,</hi> &amp; Ingrav'd from the <hi>Originalls,</hi> with a <hi>through Baſs</hi> for the <hi>Harpsichord,</hi> or <hi>Baſs-Violl</hi> and for the easier playing y<hi rend="sup">e</hi> 
+               <hi>Trebles</hi> upon the <hi>Flute,</hi> each <hi>Song</hi> is transpos'd (where neceſsary) to a <hi>Key</hi> proper for that Instrument.</p>
+            <p>Sould by Henry Playford at his Shop in the Temple Chainge Fleet Street, 1698</p>
+         </div>
+      </front>
+      <body>
+         <div type="song">
+            <pb facs="tcp:93982:2" rendition="simple:additions"/>
+            <pb facs="tcp:93982:2"/>
+            <head>A new Song</head>
+            <byline>set by M<hi rend="sup">r</hi>: Forcer.</byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <lg>
+               <l>Farewell my useleſs Scrip, &amp; poor unheed'd flocks,</l>
+               <l>No more you'll round me trip, nor cloath me with your Locks,</l>
+               <l>Feed by you purling Stream where Jockey, where Jockey first J knew,</l>
+               <l>J only think J only think, J only think on him, J cannot, cannot, cannot think on you.</l>
+            </lg>
+            <lg>
+               <l>Farewell each Shepherdeſs the bonny Lads adieu,</l>
+               <l>May each his Wish poſseſs and to that Wish be true,</l>
+               <l>Your Oaten Pipes cou'd please but Jockey then was kind,</l>
+               <l>Your bonny Tunes may Cease the Lad has Chang'd his mind.</l>
+            </lg>
+            <div type="transposition_for_flute">
+               <head>For the Flute</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+               </p>
+            </div>
+            <div type="colophon">
+               <p>Sould by Henry Playford at his Shop in y<hi rend="sup">e</hi> Temple-Change Fleet-ſtreet (num<g ref="char:cmbAbbrStroke">̄</g> 5)</p>
+            </div>
+         </div>
+         <div type="song">
+            <pb facs="tcp:93982:3" rendition="simple:additions"/>
+            <head>A Song in the <hi>Comedy</hi> call'd the <hi>Town Vnmask'd</hi>
+            </head>
+            <byline>Set by <hi>M<hi rend="sup">r</hi>. Iohn Eccles</hi>
+            </byline>
+            <byline>Sung by <hi>Ms</hi>. <hi>Bowman</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> All things seem deaf, seem deaf to my Complaints, All things seem dea╌f to my Complaints, in Vaine J roa╌m the groves a<g ref="char:EOLunhyphen"/>lone, in Vaine J roa╌m the groves alone; Hear me, hear me Ye
+Loves, ye Lo╌ves departed Swains, that to Eli╌zyan
+Shades are gon, hear me, hear me Ye Loves depa╌rted Swains, that to E╌li╌zian Shades are gon
+Jf to my faithfull Celadon J prove not true, if to my faithfull
+<pb facs="tcp:93982:3"/>
+Celadon J prove not true; Let it be both our dooms, let it be both our dooms,
+let it be both our dooms, let it be both our dooms never to com to you, never to com to you,
+let it be both our dooms, never to com to you, no no no no no no no no no no no no no no never never
+never never never, no never to com to you, no never never never never never, no never to com to you </p>
+            <div type="transposition_for_the_flute">
+               <head>For the Flute</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+               </p>
+            </div>
+            <div type="colophon">
+               <p>Sold by Henry Playford at his shop in y<hi rend="sup">e</hi> Temple Change Fleet-ſtreet</p>
+               <pb facs="tcp:93982:4"/>
+            </div>
+         </div>
+         <div type="song">
+            <pb facs="tcp:93982:4"/>
+            <head>A new Song set by M<hi rend="sup">r</hi>: Barrett.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+How wretched, how wretched is our
+Fate to Love, when doom'd, when doom'd to Love in Vain, or Sigh &amp;
+Tears suc╌ceſs╌leſs Prove, &amp; in the fair no Paſsions move, but hatred and Disdain.
+Ah dear Sibersa, Did you, did you, did you know what Torments J endure you
+more Compaſsionate wou'd grow, &amp; som kind tender pitty show, my Wild dispair to
+Cure, my Wi╌ld dispair to Cure.
+To you my Heart J've Sacrifis'd, to Sigh, to bleed, to bleed, to burn. For you the World J
+have despis'd, you as my Goddeſs Jdoliz'd, and am by you by you undone, &amp;
+am by you, &amp; am by you, by you, by you undone.</p>
+            <div type="publishers_advertisement">
+               <p>Sould by Henry Playford at his Shop in y<hi rend="sup">e</hi> Temple Change Fleet-ſtreet (num<g ref="char:cmbAbbrStroke">̄</g> 7)</p>
+            </div>
+         </div>
+         <div type="song">
+            <pb facs="tcp:93982:5"/>
+            <head>A new Song</head>
+            <byline>set by <hi>Mr</hi>: <hi>Ieremiah Clark</hi>
+            </byline>
+            <byline>Sung by <hi>Ms</hi>: <hi>Campion</hi> at the <hi>Theater</hi> in Dorcet Garden</byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+Long has Pa╌sto╌ra
+rul'd the Plain, long, long, long
+has Pa╌sto╌ra rul'd the Plain, the Day╌ly Song, the
+Day╌ly Song of every Sighing, every Sigh╌ing Swain, in
+Softest notes, in Softest notes all tell their Tender Love, each
+Stri╌ves╌in Vain, each Stri╌ves╌in Vain Pasto╌ras Breſt to move,
+Ah happy, happy Nimph, Ah happy, happy Nimph, whose
+<pb facs="tcp:93982:5"/>
+Charms such Ma╌gick have, can Chain a World, can Chain a World and
+force Mankind your Slave. Wou'd you Improve and Still much
+brighter Shine, Oh do but Love and You'l be all Divine, Oh.
+Oh, Oh do do but Love and You'l be all Divine.</p>
+            <div type="transposition_for_the_flute">
+               <head>For the Flute</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <stage>Slow</stage>
+               </p>
+            </div>
+            <div type="colophon">
+               <p>Sold by Henry Playford at his Shop in y<hi rend="sup">e</hi> Temple Change Fleet-ſtreet (Nu<g ref="char:cmbAbbrStroke">̄</g>. 2)</p>
+            </div>
+         </div>
+         <div type="song">
+            <pb facs="tcp:93982:6"/>
+            <head>A new Song upon a <hi>lost Heart,</hi>
+            </head>
+            <byline>the words by <hi>M<hi rend="sup">rs</hi>. Child</hi>
+            </byline>
+            <byline>Set by <hi>M<hi rend="sup">r</hi>. Wilford.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+Return, return thou wand╌ring Gueſs return
+return to thy forsaken Breast, forsaken Breast, fond Heart why
+dost thou Still pursue, a fate which will thy peace undoe,
+fond Heart why dost thou Still pursue, a fate which will
+thy peace undoe, thy peace undoe. How ill have
+Str<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngers treated thee, with va╌rious kinds of
+treachory, Yet thou as pleas'd with thy undoing dost vainly
+fly╌ to meet thy ruine
+<pb facs="tcp:93982:6"/>
+Oh dost thou hope at last to find a Breast that's Constant
+Soft &amp; kind if that a lone crowns thy desire, then to thy
+own thou must retire, if that alone Crowns thy deſire, then
+to thy own thow must retire, end with the first Strain.</p>
+            <div type="transposition_for_the_flute">
+               <head>For the Flute.</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <stage>first strain again</stage>
+                  <stage>end with the first strain</stage>
+               </p>
+            </div>
+            <div type="colophon">
+               <p>Sould by Henry Playford at his Shop in the Temple Change Fleet-Street, (Num<g ref="char:cmbAbbrStroke">̄</g>. 3)</p>
+            </div>
+         </div>
+         <div type="song">
+            <pb facs="tcp:93982:7"/>
+            <head>A new Song in the <hi>Fatall Deuorse,</hi>
+            </head>
+            <byline>set by <hi>M<hi rend="sup">r</hi>: Daniel Purcell,</hi>
+            </byline>
+            <byline>Sung by <hi>Ms</hi>: <hi>Linsey.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+O╌ O╌ Hymen must we must we allway's see. Perjur'd Man thus faithleſs
+be, and still still securely sli╌ght. Securely slight our Deity, must Vows &amp;
+Oaths to us be Swore, and then be never, never, never, then be never, never
+never, never, never, never thought on more, must Vows &amp; Oaths to us be Swore, &amp;
+then be never, never, never, never thought on more.
+Jn Vain, in Vain, Jn Vain, in Vain our Votrys Seek our Aid, Jn Vain, in
+Vain, Jn Vain, in Vain, Jn Vain, in Vain ╌ our Votrys Seek our
+Aid; Jn Vain, in Vain our Votry's Seek our Aid; Jn Vain, in
+<pb facs="tcp:93982:7"/>
+Vain ╌our Votrys Seek our Aid, if thus, thus, thus, if thus, thus,
+thus they Still must be betraid if thus thus thus if thus thus thus if
+thus, thus, thus they Still must be betraid, if thus, thus, thus, if thus, thus, thus, if
+thus, thus, thus, they Still must be betraid.</p>
+            <div type="transposition_for_the_flute">
+               <head>For the Flute</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+               </p>
+            </div>
+            <div type="colophon">
+               <p>Sould by Henry Playford at his Shop in y<hi rend="sup">e</hi> Temple-Change Fleet-ſtreet (Num<g ref="char:cmbAbbrStroke">̄</g> 4),</p>
+            </div>
+         </div>
+         <div type="song">
+            <pb facs="tcp:93982:8"/>
+            <head>A New Song</head>
+            <byline>the words by <hi>Cap<hi rend="sup">t</hi>. Walker</hi>
+            </byline>
+            <byline>set by <hi>M<hi rend="sup">r</hi>. Courtevill,</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+The Charms of bright Beauty so Pow╌erfull Are for that wee make
+Peace and for that wee make War. then tell me no more,
+no more, then tell me no more, no more of Reli-gion and
+Laws, your Cant of Jn justice your good and bad Cause, your
+Con╌quest your Con╌quest
+your Conquest and Tri╌umphs your Captives and Spoyles, cou'd
+<pb facs="tcp:93982:8"/>
+never incite me, no never, cou'd never incite me, cou'd
+never incite me, to Hazardous toyles, cou'd never incite me,
+to Hazardous toyles. To be great wise and
+wealthy, J never wou'd chuse, Shou'd the Nymph J adore
+shoud the Nymph J adore her Favours refuse.
+But let my Eugenia be faithfull, and kind, il'e weather the
+Winter and weary the wind, il'e Ra╌vage the
+Seas, il'e Ra╌vage the Seas the Earth and the
+<pb facs="tcp:93982:9"/>
+Air and Com╌bate for Her
+even Death,╌even Death, Death and Dispair,</p>
+            <div type="transposition_for_the_flute">
+               <head>For the Flute</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> 
+                  <stage>Slow</stage>
+               </p>
+            </div>
+            <div type="colophon">
+               <p>Sould by Henry Playford at his shop in the Temple Change Fleet-ſtreet (Num<g ref="char:cmbAbbrStroke">̄</g> 6)</p>
+               <pb facs="tcp:93982:9"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
